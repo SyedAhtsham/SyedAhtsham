@@ -5,7 +5,7 @@
 - 🔗 My Official Website: www.syedahtsham.com
 - 👀 I love web-development. I know php, java, javascript, and c++. Moreover, I know Laravel, sql, css, and html.
 - 💬 Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.
-- ✉️ You can shoot me an email at hameed.anas@hotmail.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at syedahtshamqau@gmail.com I'll try to respond as soon as I can.
 
 - 💞️ I’m collaborating on a Project that's to develop a product for courrier services. The objective is to optimize the route using artificial intelligence and thereby delighting the customers as well as the employees who work for the courrier service. Since, this application will help them reduce their delivery cost and in turn will profit them.
 - + Besides this, I worked along with my fellows at university in semester projects. I'd like to mention that my group and I worked altogether for developing a Gift Registery website, Arts and Crafts website where a user will find arts and crafts ideas as well as he will be able to purchase the tools needed to materialize that idea. 
