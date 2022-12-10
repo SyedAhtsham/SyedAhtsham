@@ -1,8 +1,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
+
 - 👋 Hi, I’m Syed Ahtsham and 21. An undergraduate Computer Science student at Quaid-i-Azam University Islamabad.
-- 👀 I’m interested in web-development and Android app development. I know php, java, javascript, and c++. Moreover, I know sql, css, and html.
-- 🌱 I’m currently learning Oracle Application Express (APEX) for turning an oracle database into a user-friendly web application. Where a user will be able to manilpulate the data easily.
+- 🔗 My Official Website: www.syedahtsham.com
+- 👀 I love web-development. I know php, java, javascript, and c++. Moreover, I know Laravel, sql, css, and html.
+- 💬 Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.
+- ✉️ You can shoot me an email at hameed.anas@hotmail.com! I'll try to respond as soon as I can.
+
 - 💞️ I’m collaborating on a Project that's to develop a product for courrier services. The objective is to optimize the route using artificial intelligence and thereby delighting the customers as well as the employees who work for the courrier service. Since, this application will help them reduce their delivery cost and in turn will profit them.
 - + Besides this, I worked along with my fellows at university in semester projects. I'd like to mention that my group and I worked altogether for developing a Gift Registery website, Arts and Crafts website where a user will find arts and crafts ideas as well as he will be able to purchase the tools needed to materialize that idea. 
 We documented the Project Management Plan, SRS (Software Requirements Specification), Use cases, Use case model, Domain model, ERD, Data dictionaries, Seuquence models, and class diagram. We also developed the test cases. And after documenting all this, we started coding the classes and interfaces in php. And we used the MAMP local host
@@ -21,8 +25,8 @@ for storing the database. Front end wsa in html, css, and Javascript. We used th
 <a href="https://github.com/SyedAhtsham/github-readme-stats"><img alt="Masab Umair's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAhtsham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <br/>
-<a href="https://github.com/SyedAhtsham/github-readme-activity-graph"><img alt="Anas Hameed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SyedAhtsham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/SyedAhtsham/github-readme-activity-graph">
+	
 ### 🤝 &nbsp;Feel free to connect and contact
 
 <p style='text-align:center'>
