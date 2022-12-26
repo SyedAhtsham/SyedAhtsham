@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- 👋 Hi, I’m Syed Ahtsham and 22. An undergraduate Computer Science student at Quaid-i-Azam University Islamabad.
+- 👋 Hi, I’m Syed Ahtsham, 22, and BSCS from Quaid-i-Azam University Islamabad.
 - 🔗 My Official Website: www.syedahtsham.com
 - 👀 I love web-development. I know php, java, javascript, and c++. Moreover, I know Laravel, sql, css, and html.
 - 💬 Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.
