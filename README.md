@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Syed Ahtsham, 22, and graduated in BSCS from Quaid-i-Azam University Islamabad.
-- 👀 I love web-development. I know php, java, javascript, and c++. Moreover, I know Laravel, sql, css, and html, besides this I have interest in developing websites using Flask.
+- 👀 I love Software-development and deployment. I know C++, C#, .NET, Azure DevOps, Git, MySQL, php, java & javascript. Moreover, I know Laravel, SQL, css, and html, besides this I have interest in developing websites using Flask.
 - 💬 Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.
 - ✉️ You can shoot me an email at syedahtshamqau@gmail.com I'll try to respond as soon as I can.
 
