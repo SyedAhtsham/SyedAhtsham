@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Syed Ahtsham, 22, and graduated in BSCS from Quaid-i-Azam University Islamabad.
 - 👀 I love Machine Learning, Artificial Intelligence and working with Data. I'm currently working in Python using Keras, and PyTorch for efficient models training and automation.
-- 💬 Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.
+- 💬 Feel free to reach out to me for discussing the variations in Hyper-parameters!
 - ✉️ You can shoot me an email at syedahtshamqau@gmail.com I'll try to respond as soon as I can.
 
 - 💞️ I’m collaborating on a Project that's to develop a product for courrier services. The objective is to optimize the route using artificial intelligence and thereby delighting the customers as well as the employees who work for the courrier service. Since, this application will help them reduce their delivery cost and in turn will profit them.
