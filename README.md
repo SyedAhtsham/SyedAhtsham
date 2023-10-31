@@ -7,16 +7,16 @@
 
 + Feel free to reach out to me to discuss the variations in Hyper-parameters!
 
-- + You can shoot me an email at syed.hassan@uni-potsdam.de I'll try to respond as soon as I can.
++ You can shoot me an email at syed.hassan@uni-potsdam.de I'll try to respond as soon as I can.
 
-- + I collaborated on a project to develop a product for courier services. The objective was to optimize the route using artificial intelligence and thereby increase the productivity of the customers as well as the employees who work for the courier service. This application helped them reduce their delivery cost and in turn, increased their profits.
++ I collaborated on a project to develop a product for courier services. The objective was to optimize the route using artificial intelligence and thereby increase the productivity of the customers as well as the employees who work for the courier service. This application helped them reduce their delivery cost and in turn, increased their profits.
 
-- + Besides this, I worked along with my fellows at the university on semester projects. I'd like to mention that my group and I worked together to develop a Gift Registry website, an Arts and Crafts website where a user will find arts and crafts ideas as well and he will be able to purchase the tools needed to materialize that idea.
++ Besides this, I worked along with my fellows at the university on semester projects. I'd like to mention that my group and I worked together to develop a Gift Registry website, an Arts and Crafts website where a user will find arts and crafts ideas as well and he will be able to purchase the tools needed to materialize that idea.
 
-- + We documented the Project Management Plan, SRS (Software Requirements Specification), Use cases, Use case model, Domain model, ERD, Data dictionaries, Sequence models, and class diagram. We also developed the test cases. And after documenting all this, we started coding the classes and interfaces in PHP. We used the MAMP local host
++ We documented the Project Management Plan, SRS (Software Requirements Specification), Use cases, Use case model, Domain model, ERD, Data dictionaries, Sequence models, and class diagram. We also developed the test cases. And after documenting all this, we started coding the classes and interfaces in PHP. We used the MAMP local host
 for storing the database. The front end was in HTML, CSS, and Javascript. We used SQL queries for retrieving and adding the data to and from the database respectively. The system worked as the interaction between different objects in our system. So, this was an object-oriented approach to developing the software.
 
-⚡ Moreover, talking about my interests, I like programming, hiking, dancing, singing, and playing cricket.
++ Moreover, talking about my interests, I like programming, hiking, dancing, singing, and playing cricket.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
