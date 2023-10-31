@@ -1,11 +1,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- + Hi, I’m Syed Ahtsham, 22, and a Master in Data Science student at the University of Potsdam.
++ Hi, I’m Syed Ahtsham, 22, and a Master in Data Science student at the University of Potsdam.
 
-- + I love Machine Learning, Artificial Intelligence, and working with Data. I'm currently working in Python using Keras, NLTK, Seaborn, Matplotlib, and PyTorch for efficient model training, automation, and visualization. My relevant coursework at the University is Advanced Natural Language Processing, Data Science and Business Analytics, Databases and Practical Programming, and Stochastics.
++ I love Machine Learning, Artificial Intelligence, and working with Data. I'm currently working in Python using Keras, NLTK, Seaborn, Matplotlib, and PyTorch for efficient model training, automation, and visualization. My relevant coursework at the University is Advanced Natural Language Processing, Data Science and Business Analytics, Databases and Practical Programming, and Stochastics.
 
-- + Feel free to reach out to me to discuss the variations in Hyper-parameters!
++ Feel free to reach out to me to discuss the variations in Hyper-parameters!
 
 - + You can shoot me an email at syed.hassan@uni-potsdam.de I'll try to respond as soon as I can.
 
