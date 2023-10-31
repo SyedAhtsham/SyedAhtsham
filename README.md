@@ -3,13 +3,11 @@
 
 + Hi, I’m Syed Ahtsham, 22, and a Master in Data Science student at the University of Potsdam.
 
-+ I love Machine Learning, Artificial Intelligence, and working with Data. I'm currently working in Python using Keras, NLTK, Seaborn, Matplotlib, and PyTorch for efficient model training, automation, and visualization. My relevant coursework at the University is Advanced Natural Language Processing, Data Science and Business Analytics, Databases and Practical Programming, and Stochastics.
++ I love Machine Learning, Artificial Intelligence, and working with Data. I'm currently working in Python using Keras, NLTK, Seaborn, Matplotlib, and PyTorch for efficient model training, automation, and visualization. 
 
-+ Feel free to reach out to me to discuss the variations in Hyper-parameters!
++ My relevant coursework at the University is Advanced Natural Language Processing, Data Science and Business Analytics, Databases and Practical Programming, and Stochastics.
 
-+ You can shoot me an email at syed.hassan@uni-potsdam.de I'll try to respond as soon as I can.
-
-+ I collaborated on a project to develop a product for courier services. The objective was to optimize the route using artificial intelligence and thereby increase the productivity of the customers as well as the employees who work for the courier service. This application helped them reduce their delivery cost and in turn, increased their profits.
++ In my final year of Bachelor in Computer Science at Quaid I Azam University Islamabad, I collaborated on a project named "Optimal Route Planning through Artificial Intelligence" to develop a product for courier services to optimize the route and automate the delivery sheet generation. I designed and developed the Last Mile Delivery Management System, a complete Web-based solution to automate the Delivery Sheet generation and manage vehicle assignments, employees, and fleet. I also worked closely with the research team in generating the Geo-spatial datasets for the AI model training for route optimization.
 
 + Besides this, I worked along with my fellows at the university on semester projects. I'd like to mention that my group and I worked together to develop a Gift Registry website, an Arts and Crafts website where a user will find arts and crafts ideas as well and he will be able to purchase the tools needed to materialize that idea.
 
