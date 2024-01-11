@@ -34,8 +34,8 @@ for storing the database. The front end was in HTML, CSS, and Javascript. We use
 <p style='text-align:center'>
 	<a href="https://github.com/SyedAhtsham"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/syedahtsham/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://web.facebook.com/SyedahtAliShah512/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/twelver._/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	
+	
 	
 </p>
 
